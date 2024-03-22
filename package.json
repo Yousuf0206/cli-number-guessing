@@ -1,6 +1,6 @@
 {
   "name": "yousuf0206-numberguessing",
-  "version": "2.0.1",
+  "version": "1.0.1",
   "description": "This is a simple number guessing game",
   "main": "index.js",
   "type": "module",
@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16",
-    "yousuf0206_cli-number-guessing": "^2.0.1"
+    "yousuf0206-numberguessing": "^1.0.1"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
