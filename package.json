@@ -1,12 +1,11 @@
 {
-  "name": "yousuf0206-numberguessing",
-  "version": "1.0.1",
+  "name": "numberguessing1",
+  "version": "1.0.0",
   "description": "This is a simple number guessing game",
-  "main": "index.js",
+  "main": "numberguessing.js",
   "type": "module",
-  "bin": {
-    "cli-number-guessing": "index.js"
-  },
+  "bin": "numberguessing.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16",
-    "yousuf0206-numberguessing": "^1.0.1"
+    "yousuf0206-numberguessing": "^1.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
