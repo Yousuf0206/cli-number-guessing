@@ -1,0 +1,22 @@
+{
+  "name": "yousuf0206_cli-number-guessing",
+  "version": "2.0.1",
+  "description": "This is a simple number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cli-number-guessing": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
