@@ -1,11 +1,12 @@
 {
   "name": "numberguessing1",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "This is a simple number guessing game",
   "main": "numberguessing.js",
   "type": "module",
-  "bin": "numberguessing.js",
-
+  "bin": {
+    "numberguessing1": "numberguessing.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
