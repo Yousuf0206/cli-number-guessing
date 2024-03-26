@@ -18,6 +18,7 @@
     "yousuf0206-numberguessing": "^1.0.0"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
   }
 }
