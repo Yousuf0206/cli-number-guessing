@@ -1,6 +1,6 @@
 {
   "name": "numberguessing1",
-  "version": "2.0.1",
+  "version": "1.0.1",
   "description": "This is a simple number guessing game",
   "main": "numberguessing.js",
   "type": "module",
